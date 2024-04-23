@@ -4,10 +4,11 @@
 Este proyecto de preprocesamiento de datos fue desarrollado por el Grupo 6 para la manipulación y análisis de un extenso conjunto de datos epidemiológicos registrados desde 1990 hasta 2021. El objetivo principal es preparar los datos para análisis futuros y modelos de machine learning.
 
 ## Integrantes del Grupo
-- Nombre del Integrante 1
-- Nombre del Integrante 2
-- Nombre del Integrante 3
-- Nombre del Integrante 4
+- UNAM Capulín Ornelas Arturo Misael
+- UNAM Morales Tume Bryan Sebastián    
+- PUCE CUEVA CRIOLLO ISAAC DARÍO 
+- PUCE PUPIALES QUINATOA JAVIER ALEXANDER 
+- PUCE TAYUPANTA ANDRANGO ANDRÉS XAVIER 
 
 ## Herramientas Utilizadas
 - Python
